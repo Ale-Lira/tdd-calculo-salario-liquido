@@ -1,12 +1,12 @@
 # 🧪 Estudo de TDD com Suporte de IA
 
-Esse repositório é para o estudo da aplicação do ciclo de Desenvolvimento Orientado a Testes (TDD) com apoio de ferramentas de Inteligência Artificial, analisando criticamente seus impactos sobre a qualidade do software, design do código e métricas de software, no contexto da engenharia de software moderna.
+Esse repositório é para o estudo da aplicação do ciclo de Desenvolvimento Orientado a Testes (TDD) com apoio de ferramentas de Inteligência Artificial, analisando seus impactos sobre a qualidade do software, design do código e métricas de software, no contexto da engenharia de software moderna.
 
-O projeto consiste na implementação de uma calculadora de salário líquido, focando puramente na lógica de negócios, qualidade interna e cobertura de testes.
+O projeto consiste na implementação de uma calculadora de salário líquido, focando na lógica de negócios, qualidade interna e cobertura de testes.
 
 ## 📋 Sobre a Atividade
 
-Cada dupla desenvolveu uma solução utilizando TDD (Red-Green-Refactor) assistido por ferramentas de IA generativa. O objetivo não é apenas o código funcional, mas a análise de como a IA influencia a testabilidade, a manutenibilidade e a complexidade do código.
+Cada dupla desenvolve uma solução utilizando TDD (Red-Green-Refactor) assistido por ferramentas de IA generativa. O objetivo não é apenas o código funcional, mas a análise de como a IA influencia a testabilidade, a manutenibilidade e a complexidade do código.
 
 **Ferramentas de IA Utilizadas:**
 * 🤖 **GitHub Copilot**
@@ -42,7 +42,6 @@ $$Salário Líquido = Salário Bruto - Desconto INSS - Desconto IR$$
 
 ## 📊 Atributos de Qualidade e Métricas
 
-O foco deste desenvolvimento é garantir a robustez e a qualidade interna do software.
 
 ### Atributos Alvo
 1.  **Correção Funcional:** Precisão absoluta nos cálculos de descontos.

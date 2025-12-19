@@ -60,9 +60,8 @@ $$Salário Líquido = Salário Bruto - Desconto INSS - Desconto IR$$
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem:** [Inserir sua Linguagem aqui, ex: Java, Python, C#]
-* **Framework de Testes:** [Inserir Framework aqui, ex: JUnit, Pytest, xUnit]
-* **Ferramenta de Cobertura:** [Inserir ferramenta, ex: JaCoCo, Coverage.py]
+* **Linguagem:** [Python]
+
 
 ---
 
